@@ -3,7 +3,8 @@ import { connect } from 'react-redux';
 import { Fade } from "react-reveal";
 import {Accordion} from "react-bootstrap";
 
-const Faq = () => { 
+const Faq = () => {  
+    // this is test commit
   return (
     <section id="faq" style={{"padding": "100px 0px"}}>
         <Fade bottom>
