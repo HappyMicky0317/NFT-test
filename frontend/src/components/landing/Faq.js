@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { Fade } from "react-reveal";
 import {Accordion} from "react-bootstrap";
 
-const Faq = () => {
+const Faq = () => { 
   return (
     <section id="faq" style={{"padding": "100px 0px"}}>
         <Fade bottom>
