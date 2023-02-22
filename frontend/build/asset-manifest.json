@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d1e649c.chunk.css",
+    "main.js": "/static/js/main.c2315a78.chunk.js",
+    "main.js.map": "/static/js/main.c2315a78.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.776c1e0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.776c1e0d.js.map",
+    "static/css/2.c055f72d.chunk.css": "/static/css/2.c055f72d.chunk.css",
+    "static/js/2.14f64138.chunk.js": "/static/js/2.14f64138.chunk.js",
+    "static/js/2.14f64138.chunk.js.map": "/static/js/2.14f64138.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c055f72d.chunk.css.map": "/static/css/2.c055f72d.chunk.css.map",
+    "static/css/main.0d1e649c.chunk.css.map": "/static/css/main.0d1e649c.chunk.css.map",
+    "static/js/2.14f64138.chunk.js.LICENSE.txt": "/static/js/2.14f64138.chunk.js.LICENSE.txt",
+    "static/media/15.e9787c88.png": "/static/media/15.e9787c88.png",
+    "static/media/152.4ca6a644.png": "/static/media/152.4ca6a644.png",
+    "static/media/159.fe9329b4.png": "/static/media/159.fe9329b4.png",
+    "static/media/276.eb01df22.png": "/static/media/276.eb01df22.png",
+    "static/media/44.6949c8ad.png": "/static/media/44.6949c8ad.png",
+    "static/media/4x4.7a93e8af.png": "/static/media/4x4.7a93e8af.png",
+    "static/media/87.641390d1.png": "/static/media/87.641390d1.png",
+    "static/media/discord.d0e7047d.png": "/static/media/discord.d0e7047d.png",
+    "static/media/koala_small.c0b87241.gif": "/static/media/koala_small.c0b87241.gif",
+    "static/media/opensea.3b37c3a4.png": "/static/media/opensea.3b37c3a4.png",
+    "static/media/planet_with_cards.10319f9d.png": "/static/media/planet_with_cards.10319f9d.png",
+    "static/media/space-koala-logo-01.afe6a9d8.png": "/static/media/space-koala-logo-01.afe6a9d8.png",
+    "static/media/space-koala-logo-02.ca200fc6.png": "/static/media/space-koala-logo-02.ca200fc6.png",
+    "static/media/Social-Icons.css": "/static/media/top-bg.88d75daa.png",
+    "static/media/twitter.0c55fa80.png": "/static/media/twitter.0c55fa80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.776c1e0d.js",
+    "static/css/2.c055f72d.chunk.css",
+    "static/js/2.14f64138.chunk.js",
+    "static/css/main.0d1e649c.chunk.css",
+    "static/js/main.c2315a78.chunk.js"
+  ]
+}
